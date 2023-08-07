@@ -1,0 +1,3 @@
+https://themeforest.net/item/cowork-open-office-creative-space-psd-template/18401389
+https://github.com/michalsnik/aos#animations {anitmation when scroll}
+https://animate.style/ {static animation}
